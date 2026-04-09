@@ -6,6 +6,7 @@
         git
         alejandra
       ];
+
       shellHook = ''
         echo ">> Welcome to the 'default' devShell. Tools: git, alejandra."
       '';
